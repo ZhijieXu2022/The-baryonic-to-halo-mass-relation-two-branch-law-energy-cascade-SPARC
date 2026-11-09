@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "The baryonic-to-halo mass relation in ΛCDM cosmology: a two-branch law from the energy cascade of dark matter, tested with SPARC"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24094605"
+    description: "Zenodo archive of the manuscript and data files"
+license: CC-BY-4.0
+version: "2.0"
+date-released: "2026-11-09"
+keywords:
+  - "dark matter"
+  - "baryonic-to-halo mass relation"
+  - "SPARC"
+  - "energy cascade"
+  - "Tully-Fisher"
